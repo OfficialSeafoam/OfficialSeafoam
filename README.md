@@ -10,7 +10,7 @@ I Currently Know These Languages:
 ![Static Badge](https://img.shields.io/badge/-c%2B%2B-darkblue)
 ![Static Badge](https://img.shields.io/badge/-javascript-yellow)
 ----------------------------------------------------------------
-can i be an 
-![Static Badge](https://img.shields.io/badge/-ogre-darkred)
+![Static Badge](https://img.shields.io/badge/-can%20i%20be%20an%20ogre-darkred)
+
 
 
